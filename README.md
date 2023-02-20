@@ -1,4 +1,4 @@
-# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+# Olá, Bem vindo ao meu projeto de portfólio.
 
 ![image](https://github.com/Brumado/portfolio/blob/main/assets/portfolio.png)
 
